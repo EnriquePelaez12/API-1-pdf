@@ -1,0 +1,17 @@
+Ejecutar los comandos en el siguiente orden
+
+una vez descargado el proyecto abrirlo y hubicarse el la carpeta llamada 
+functions, revisar si tienen esas dependencias y si falta alguna 
+instalarla todo dentro de la carpeta functions
+npm install -g firebase-tools      instalar de forma global firebase
+npm install express cors          --- configurar que servidores tienen acceso
+npm i @google-cloud/firestore
+npm install uuid
+npm i html-pdf
+
+firebase serve          --- para ejecutar el proyecto firebase
+
+
+
+
+
